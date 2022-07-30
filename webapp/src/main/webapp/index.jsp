@@ -1,6 +1,6 @@
 <form action="action_page.php" style="border:1px solid #ccc">
     <div class="container">
-      <h1>Sign Up Battu</h1>
+      <h1>Sign Up Battu Appsec</h1>
       <p>Please fill in this form to create an account.</p>
       <hr>
   
